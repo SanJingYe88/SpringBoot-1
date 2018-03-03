@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springboot-java3
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.com
+Build-Jdk: 1.7.0_79
+Built-By: ThinkPad
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-j
+ ava3/
+
